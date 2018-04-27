@@ -1,3 +1,6 @@
+ban yip:增raspberry下的基础包安装脚本
+
+
 # SS/SSR 透明代理脚本
 使用此脚本前，请确保你已正确安装以下组件：
 - [shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)：[安装方式](https://www.zfl9.com/ss-redir.html#shadowsocks-libev)
